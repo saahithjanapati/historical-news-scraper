@@ -25,5 +25,5 @@ python scraper.py search_term   start_date   end_date   output_filename
 
 Sample run:
 ```
-python3 scraper.py "Artificial Intelligence" 01/01/2023 03/08/2023 AI.csv
+python3 scraper.py "Artificial General Intelligence" 01/01/2023 03/08/2023 AGI.csv
 ```
